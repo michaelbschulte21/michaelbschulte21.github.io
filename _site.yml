@@ -1,7 +1,7 @@
 name: "Portfolio"
 navbar:
   title: "My Website"
-  left
+  left:
     - text: "Home"
       href: index.html
     - text: "Beer Case Study"

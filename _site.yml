@@ -1,0 +1,8 @@
+name: "Portfolio"
+navbar:
+  title: "My Website"
+  left
+    - text: "Home"
+      href: index.html
+    - text: "Beer Case Study"
+      href: Beer-Project.html

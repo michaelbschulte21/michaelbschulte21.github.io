@@ -1,0 +1,7 @@
+---
+title: "index"
+author: "Michael Schulte"
+date: "11/7/2022"
+output: html_document
+---
+# Welcome to my portfolio!

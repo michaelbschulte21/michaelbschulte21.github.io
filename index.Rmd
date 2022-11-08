@@ -7,3 +7,5 @@ output: html_document
 # Welcome to my portfolio!
 ## About me
 My name is Michael Schulte. I am a current student in the SMU MSDS program. I got my undergrad in Physics at the University of Virginia (UVA). I am from Charlottesville, VA. I currently live in the DFW metroplex. I am interested in medicine and music. I currently work as a data solutions engineer at Opargo.
+
+The other tabs represent work/analyses that I have completed. Please check them out!
